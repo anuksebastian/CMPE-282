@@ -1,4 +1,4 @@
-package assign5_bbatcloud.assign5;
+package assign5_S3;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
